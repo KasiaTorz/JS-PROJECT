@@ -11,10 +11,10 @@ Java Script slider and form with refresh the part of the page without reloading
 
 MAIN LANGUAGE:
 
-- HTML;
+#HTML;
 
--JAVA SCRIPT;
+#JAVA SCRIPT;
 
-- JQUERY;
+#JQUERY;
 
--BOOTSTRAP 4.
+#BOOTSTRAP 4.
