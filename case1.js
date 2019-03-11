@@ -15,7 +15,7 @@ var num1 = 2;
 function numbers(){
     return num1 + num2;
 }
-console.log(numbers);
+console.log(num1);
 
 
 
