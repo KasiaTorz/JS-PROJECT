@@ -7,3 +7,4 @@ function catTalk(){
     catName="Oliver";
     quote= catName + "says Meow!"
 }
+catTalk();
