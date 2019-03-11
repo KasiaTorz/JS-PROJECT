@@ -7,9 +7,19 @@ function catTalk(){
     catName="Oliver";
     quote= catName + "says Meow!"
 }
-console.log(catTalk);*/
+catTalk();*/
 
-let example = 'Dylan';
+var num1 = 2;
+    num2 = 5;
+
+function numbers(){
+    return num1 + num2;
+}
+console.log(numbers);
+
+
+
+
 
 
 
