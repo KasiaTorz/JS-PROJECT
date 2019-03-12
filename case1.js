@@ -15,7 +15,10 @@ var num1 = 2;
 function numbers(){
     return num1 + num2;
 }
-console.log(num1);
+console.log(num1+num2);
+
+
+
 
 
 
