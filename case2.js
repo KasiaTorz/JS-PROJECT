@@ -8,4 +8,5 @@ console.log (` firstName  + lastName   `.trim().length);
 var greeting = '  Hello Kasia  ';
 console.log (greeting);
 console.log (greeting.trimEnd());
-
+console.log(greeting.length);
+console.log (greeting.upperCase);
