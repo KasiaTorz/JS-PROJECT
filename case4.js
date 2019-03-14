@@ -1,6 +1,10 @@
 let example = 7.90;
 console.log ( typeof example);
 console.log (parseInt(example));
+console.log (example.toFixed(2)); /* 7,900 */
+
+
+
 
 /*------------*/
 
