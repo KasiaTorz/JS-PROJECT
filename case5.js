@@ -1,2 +1,3 @@
 let example1 = false;
-console.log (Boolean(example1));
+
+console.log (example1); /*false */
