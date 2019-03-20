@@ -6,3 +6,4 @@ console.log(array1.length);/*3 */
 
 let box1 = ['Kasia',5,true];
 let box2 = box1;
+box2.push(11);
