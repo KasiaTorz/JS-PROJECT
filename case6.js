@@ -15,3 +15,6 @@ console.log(box2);
 coffess= ["french roast", "columbia","kona"];
 coffess[1];
 
+var shopping=['bread','chease','hummus','milk'];
+
+
