@@ -16,7 +16,10 @@ coffess= ["french roast", "columbia","kona"];
 coffess[1];
 
 let shopping=['bread','chease','hummus','milk'];
-shopping[0];/* return 'bread'
+shopping[0];/* return 'bread'*/
+shopping;
+
+let random = ['tree', 795, [0, 1, 2]];
 
 
 
