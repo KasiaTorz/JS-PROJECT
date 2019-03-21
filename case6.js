@@ -11,3 +11,7 @@ let box2 = box1.map((box)=>{
 box2.push(11);
 console.log(box1);
 console.log(box2);
+
+coffess= ["french roast", "columbia","kona"];
+coffess[1];
+
