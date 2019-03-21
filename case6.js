@@ -16,5 +16,7 @@ coffess= ["french roast", "columbia","kona"];
 coffess[1];
 
 let shopping=['bread','chease','hummus','milk'];
+shopping[0];/* return 'bread'
+
 
 
