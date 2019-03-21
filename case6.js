@@ -26,7 +26,7 @@ let sequence = [1,1,2,3,5,8,13];
 
 for (let i= 0; i<sequence.length;i++){
     console.log(sequence[i]);
-}
+}/*1,2,3,5,8,13 */
 
 
 
