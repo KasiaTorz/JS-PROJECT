@@ -22,5 +22,8 @@ shopping;
 let random = ['tree', 795, [0, 1, 2]];
 random[2][2];/*'2' it is secound position in array in array*/ 
 
+let sequence = [1,1,2,3,5,8,13];
+console.log (sequence);
+
 
 
