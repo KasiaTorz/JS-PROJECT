@@ -20,6 +20,7 @@ shopping[0];/* return 'bread'*/
 shopping;
 
 let random = ['tree', 795, [0, 1, 2]];
+random[2][2];/*'2' it is secound position in array in array*/ 
 
 
 
