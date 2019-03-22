@@ -6,6 +6,7 @@ let object1 = {
         state:'NY'
     },
     age:45,
-    animals:['cat','dog','mouse'];
+    animals:['cat','dog','mouse'],
 };
 console.log(object1.firstName);/*Kate*/
+console.log(object1.adress.city);
