@@ -9,4 +9,5 @@ let object1 = {
     animals:['cat','dog','mouse'],
 };
 console.log(object1.firstName);/*Kate*/
-console.log(object1.adress.city);
+console.log(object1.adress.city);/*New York */
+console.log(Object.keys(object1));
