@@ -10,4 +10,5 @@ let object1 = {
 };
 console.log(object1.firstName);/*Kate*/
 console.log(object1.adress.city);/*New York */
-console.log(Object.keys(object1));
+console.log(Object.keys(object1));/*'firstName', 'lastName', 'address, 'age', 'animals' */
+console.log(Object.values(object1));/*["Kate", "Holms", {…}, 45, Array(3)] */
